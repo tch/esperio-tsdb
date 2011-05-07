@@ -1,0 +1,25 @@
+
+h3. Project Description
+
+Esperio-OpenTSDB is an EpesrIO adapter for OpenTSDB time series database. It enables connecting "Esper":http://esper.codehaus.org/ complex event processing engine to the open source "OpenTSDB":http://opentsdb.net/ time series database. The following capabilities are supported/planned:
+
+ * replying events;
+ * executing queries over the stored events;
+ * queries (corrleation, etc.) over real-time events with those stored in a database;
+ * ...
+
+
+
+h3. Sample Code
+
+
+h3. Getting Started
+
+
+h3. Development Status
+
+h4. TODO
+  
+
+h3. Related Work
+
